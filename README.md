@@ -4,7 +4,7 @@
 ![Kind](https://img.shields.io/badge/Kind-Cluster-orange?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-v1.0-blueviolet?logo=terraform&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-Configuration-lightgrey?logo=yaml&logoColor=white)
-![Python](https://img.shields.io/badge/Python-v3.9-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-v1.16-cyan?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-v1.52-brown?logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-black?logo=gnu-bash&logoColor=white)
