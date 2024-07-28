@@ -1,8 +1,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm--blue?logo=helm&logoColor=white)
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k8s-1&layout=compact&theme=vision-friendly-dark)](https://github.com/k8s-1/github-readme-stats)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 <!--
 **k8s-1/k8s-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
