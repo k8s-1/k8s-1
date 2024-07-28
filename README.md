@@ -1,5 +1,4 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm--blue?logo=helm&logoColor=white)
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
