@@ -3,8 +3,6 @@
 ![CKA Certified](https://img.shields.io/badge/CKA-Certified-blue?logo=kubernetes&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm--blue?logo=helm&logoColor=white)
-![K3s](https://img.shields.io/badge/K3s-Lightweight-blue?logo=kubernetes&logoColor=white)
-![Minikube](https://img.shields.io/badge/Minikube-Local-blue?logo=kubernetes&logoColor=white)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
