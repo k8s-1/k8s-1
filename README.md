@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![CKA Certified](https://img.shields.io/badge/CKA-Certified-blue?logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.21-blue?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-v3.5-blue?logo=helm&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-Lightweight-blue?logo=kubernetes&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-Local-blue?logo=kubernetes&logoColor=white)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
