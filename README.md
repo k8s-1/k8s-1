@@ -1,9 +1,9 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
-![Kind](https://img.shields.io/badge/Kind-Cluster-orange?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-v1.0-blueviolet?logo=terraform&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-Configuration-lightgrey?logo=yaml&logoColor=white)
+![Kind](https://img.shields.io/badge/Kind-orange?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-blueviolet?logo=terraform&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-lightgrey?logo=yaml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-cyan?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-brown?logo=rust&logoColor=white)
