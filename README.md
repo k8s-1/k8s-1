@@ -10,6 +10,7 @@
 ![Rust](https://img.shields.io/badge/Rust-v1.52-brown?logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-black?logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&logoColor=white)
 
 <!--
 **k8s-1/k8s-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
