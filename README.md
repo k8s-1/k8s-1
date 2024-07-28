@@ -6,9 +6,9 @@
 ![YAML](https://img.shields.io/badge/YAML-lightgrey?logo=yaml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-cyan?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-brown?logo=rust&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Scripting-black?logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-brown?logo=rust&logoColor=orange)
+![Shell](https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-lightblue?logo=cloud&logoColor=white)
 
 <!--
