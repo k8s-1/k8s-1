@@ -5,6 +5,9 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k8s-1&layout=compact&theme=vision-friendly-dark)](https://github.com/k8s-1/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k8s-1&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **k8s-1/k8s-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
