@@ -1,5 +1,3 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
 ![Kind](https://img.shields.io/badge/Kind-orange?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-blueviolet?logo=terraform&logoColor=white)
