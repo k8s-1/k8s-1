@@ -9,6 +9,8 @@
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-lightblue?logo=cloud&logoColor=white)
 
+Contributed to fluxcd/flux2, crossplane/crossplane, kubernetes-sigs/external-dns, prometheus-operator/prometheus-operator, siderolabs/talos, yetone/avante.nvim and others.
+
 <!--
 **k8s-1/k8s-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
