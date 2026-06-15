@@ -6,4 +6,4 @@
 ![Shell](https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=white)
 
-Contributed to flux, crossplane, external-dns, prometheus-operator, talos, avante.nvim and others.
+Contributed to flux, crossplane, external-dns, prometheus-operator, talos, nvim and others.
