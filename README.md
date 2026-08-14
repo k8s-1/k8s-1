@@ -5,3 +5,4 @@
 ![Rust](https://img.shields.io/badge/Rust-brown?logo=rust&logoColor=orange)
 ![Shell](https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-black?logo=neovim&logoColor=white)
