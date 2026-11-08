@@ -9,7 +9,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<h2>Knowing that you do not know is best.</h2>
+<h1>Knowing that you do not know is best.</h1>
 
 <b>Laozi, Tao Te Ching Ch. 71</b>
 
