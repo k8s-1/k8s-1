@@ -10,6 +10,6 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — Harold Abelson & Gerald Jay Sussman, *Structure and Interpretation of Computer Programs*
+> ~ H. Abelson & G.J. Sussman, *Structure and Interpretation of Computer Programs*
 
 </div>
