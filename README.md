@@ -1,12 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=k8s-1&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=infrastructure%20and%20systems&descAlignY=60&descSize=18" width="100%" />
-
-</div>
-
-
-<div align="center">
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,6 +11,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=k8s-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> — Harold Abelson & Gerald Jay Sussman, *Structure and Interpretation of Computer Programs*
 
 </div>
