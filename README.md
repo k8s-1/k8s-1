@@ -9,9 +9,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<br>
-
-<h1>"Programs must be written for people to read,<br>and only incidentally for machines to execute."</h1>
+<h1>Programs must be written for people to read,<br>and only incidentally for machines to execute.</h1>
 
 <b>H. Abelson &amp; G.J. Sussman</b>, <i>Structure and Interpretation of Computer Programs</i>
 
