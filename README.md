@@ -13,6 +13,6 @@
 
 <h1><i>"Programs must be written for people to read,<br>and only incidentally for machines to execute."</i></h1>
 
-<b>~ H. Abelson &amp; G.J. Sussman</b>, <i>Structure and Interpretation of Computer Programs</i>
+<b>H. Abelson &amp; G.J. Sussman</b>, <i>Structure and Interpretation of Computer Programs</i>
 
 </div>
