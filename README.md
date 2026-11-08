@@ -9,9 +9,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<h2>Knowing that you do not know is the best.</h2>
-<h2>Not knowing that you do not know is an illness.</h2>
-
+<h2>A good counter needs no calculator.</h2>
 <b>Laozi, Tao Te Ching</b>
 
 </div>
