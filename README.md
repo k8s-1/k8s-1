@@ -11,6 +11,6 @@
 
 <h1>Knowing that you do not know is the best.<br>Not knowing that you do not know is an illness.</h1>
 
-<b>Laozi, Tao Te Ching, Ch. 71 (trans. Stefan Stenudd)</b>
+<b>Laozi, Tao Te Ching</b>
 
 </div>
