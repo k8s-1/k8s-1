@@ -11,6 +11,6 @@
 
 <h2>Knowing that you do not know is best</h2>
 
-<b>Laozi, Tao Te Ching Ch. 71</b>
+<b>Laozi, Tao Te Ching</b>
 
 </div>
