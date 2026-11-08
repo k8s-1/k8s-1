@@ -9,7 +9,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<h3><i>Knowing that you do not know is the best.<br>Not knowing that you do not know is an illness.</i></h3>
+<h2><i>Knowing that you do not know is the best.<br>Not knowing that you do not know is an illness.</i></h2>
 
 <b>Laozi, Tao Te Ching (Ch. 71)</b>
 
